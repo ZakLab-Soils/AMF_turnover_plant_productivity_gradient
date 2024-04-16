@@ -17,7 +17,7 @@ Soil cores collected and composited around *Acer rubrum* and *Acer saccharum* (r
 
 Sequences for this manuscript are deposited in the NCBI SRA database under the Manistee Forest Soil Nitrogen Mineralization Gradient Study BioProject (PRJNA714922) with the SRA accession numbers SRR27482494-SRR27482565. This includes the raw reads for the forward and reverse sequences from a MiSeq 2 x 250bp run using modified versions of the NS31 and AML2 primers to target AMF 18S rDNA.
 
-The R scripts used for analyzing the sequences are included in the code folder. The data folder contains the soil environmental data and metadata for each sample/tree used in this study. The database folder has the edited Maarjam database (Opik et al, XXXX) used for taxonomic assignments as well as the fasta file used for phylogenetic trees construction.
+The R scripts used for analyzing the sequences are included in the code folder. The data folder contains the soil environmental data and metadata for each sample/tree used in this study. It also contains the edited Maarjam database (Opik et al, XXXX) used for taxonomic assignments and the edited QIIME Maarjam file to create the tax table from the BLAST output.
 
 ******
 ### References
