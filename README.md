@@ -1,25 +1,24 @@
-Code repositories for manuscripts related to sampling in 2022 from the Manistee National Forest across a natural nitrogen mineralization gradient. 
-
-## Background
-Composite soil cores (5 cm x 5cm) were collected around *Quercus rubra* (red oak; n=60) trees and *Acer rubrum*/*A. saccharum* (red/sugar maple; n=72) trees across 12 stands (ref).
-<p align="center"> <img width="400" height="400" src="https://github.com/ZakLab-Soils/Manistee_2022_N_mineralization/assets/18741411/80fb815b-7a6d-4de9-a19a-b148db3c41ae">
-</p>
-
-
-Stands are even-aged (~100 year old) across a ~50km landscape with similar bulk soil properties but with microsite differences in nutrient and water characteristics that have created a gradient in soil inorganic N availability that has naturally been maintained (Argiroff et al, 2022, Pellitier et al, 2021, Zak et al, 1986). In 2022 we resampled for environmental variables (soi pH, N mineralization, etc) alongside tree characteristics and growth. Oak trees were previously used for analysis (Pellitier et al, 2021), but maple trees were newly added for the 2022 sampling. 
-
-******
-## Manuscripts (directories in this repository)
+Data and microbial analyses code for the manuscript  
 
 # *Arbuscular mycorrhizal communities turnover along a plant productivity gradient*
-## Morgan R. McPherson<sup>1</sup>, Donald R. Zak<sup>1,2</sup>, Inés Ibáñez<sup>1,2</sup>, Rima A. Upchurch<sup>1</sup> and William A. Argiroff<sup>3</sup> 
+### Morgan R. McPherson<sup>1</sup>, Donald R. Zak<sup>1,2</sup>, Inés Ibáñez<sup>1,2</sup>, Rima A. Upchurch<sup>1</sup> and William A. Argiroff<sup>3</sup> 
 
 <sup>1</sup>School for Environment and Sustainability, University of Michigan, Ann Arbor, MI 48109, USA  
 <sup>2</sup>Department of Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, MI 48109, USA  
 <sup>3</sup>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, 37830, USA
 
 Submitted to *Ecology* in April 2024  
-Directory: **AMF_across_plant_productivity**
+***************
+
+<p align="center"> <img width="400" height="400" src="https://github.com/ZakLab-Soils/Manistee_2022_N_mineralization/assets/18741411/80fb815b-7a6d-4de9-a19a-b148db3c41ae">
+</p>
+
+Soil cores collected and composited around *Acer rubrum* and *Acer saccharum* (red and sugar maple; n=72) trees across 12 stands spanning a plant productivity and nitrogen mineralization gradient (image). Stands are even-aged (~100 year old) across a ~50km landscape with similar bulk soil properties but with microsite differences in nutrient and water characteristics that have created a natural gradient in soil inorganic N mineralization that has remained stable (Argiroff et al, 2022, Pellitier et al, 2021, Zak et al, 1986). In 2022 we resampled for environmental variables (soi pH, N mineralization, etc) alongside tree characteristics and growth, as well as to study the arbuscular mycorrhizal fungi (AMF) communities.
+
+Sequences for this manuscript are deposited in the NCBI SRA database under the Manistee Forest Soil Nitrogen Mineralization Gradient Study BioProject (PRJNA714922) with the SRA accession numbers SRR27482494-SRR27482565. This includes the raw reads for the forward and reverse sequences from a MiSeq 2 x 250bp run using modified versions of the NS31 and AML2 primers to target AMF 18S rDNA.
+
+The R scripts used for analyzing the sequences are included in the code folder. The data folder contains the soil environmental data and metadata for each sample/tree used in this study. The database folder has the edited Maarjam database (Opik et al, XXXX) used for taxonomic assignments as well as the fasta file used for phylogenetic trees construction.
+
 ******
 ### References
 Argiroff, W.A., D.R. Zak, P.T. Pellitier, R.A. Upchurch and J.P. Belke. 2022. Decay by ectomycorrhizal fungi couples soil organic matter to nitrogen availability. *Ecol Lett* 25, 391-404. https://doi.org/10.1111/ele.13923
