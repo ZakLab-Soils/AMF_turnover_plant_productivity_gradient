@@ -23,7 +23,7 @@ The R scripts used for analyzing the sequences are included in the code folder. 
 ### References
 Argiroff, W.A., D.R. Zak, P.T. Pellitier, R.A. Upchurch and J.P. Belke. 2022. Decay by ectomycorrhizal fungi couples soil organic matter to nitrogen availability. *Ecol Lett* 25, 391-404. https://doi.org/10.1111/ele.13923
 
-Öpik, M., A. Vanatoa, E. Vanatoa, M. Moora, J. Davison, J.M. Kalwij, Ü. Reier, M. Zobel, 2010. The online database MaarjAM reveals global and ecosystemic distribution patterns in arbuscular mycorrhizal fungi (Glomeromycota). New Phytologist 188: 223-241.
+Öpik, M., A. Vanatoa, E. Vanatoa, M. Moora, J. Davison, J.M. Kalwij, Ü. Reier, M. Zobel, 2010. The online database MaarjAM reveals global and ecosystemic distribution patterns in arbuscular mycorrhizal fungi (Glomeromycota). New Phytologist 188: 223-241. https://doi.org/10.1111/j.1469-8137.2010.03334.x
 
 Pellitier, P.T., I. Ibáñez, D.R. Zak. W.A. Argiroff and K. Acharya. 2021. Ectomycorrhizal access to organic nitrogen mediates CO2 fertilization response in a dominant temperate tree. *Nat Communications* 12, 5403. https://doi.org/10.1038/s41467-021-25652-x
 
