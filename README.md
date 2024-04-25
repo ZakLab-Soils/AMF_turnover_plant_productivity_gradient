@@ -1,6 +1,6 @@
 Data and microbial analyses code for the manuscript  
 
-# *Arbuscular mycorrhizal communities turnover along a plant productivity gradient*
+# *Arbuscular mycorrhizal diversity increases across a plant productivity gradient driven by soil nitrogen availability*
 ### Morgan R. McPherson<sup>1</sup>, Donald R. Zak<sup>1,2</sup>, Inés Ibáñez<sup>1,2</sup>, Rima A. Upchurch<sup>1</sup> and William A. Argiroff<sup>3</sup> 
 
 <sup>1</sup>School for Environment and Sustainability, University of Michigan, Ann Arbor, MI 48109, USA  
