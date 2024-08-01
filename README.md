@@ -7,7 +7,7 @@ Data and microbial analyses code for the manuscript
 <sup>2</sup>Department of Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, MI 48109, USA  
 <sup>3</sup>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, 37830, USA
 
-Submitted to *Plant Environment Interactions* in June 2024  
+Accepted to *Plant Environment Interactions* in June 2024  
 ***************
 
 <p align="center"> <img width="400" height="400" src="https://github.com/ZakLab-Soils/Manistee_2022_N_mineralization/assets/18741411/80fb815b-7a6d-4de9-a19a-b148db3c41ae">
